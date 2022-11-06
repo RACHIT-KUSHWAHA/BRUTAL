@@ -1,31 +1,31 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 𝘽𝙍𝙐𝙏𝘼𝙇 ⚡」──
 </h2>
 
 <p align="center">
-  <img src="https://github.com/TheAnonymous2005/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://github.com/RACHIT-KUSHWAHA/BRUTAL/blob/master/BRUTAL/resources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/FallenXRobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [「 𝘽𝙍𝙐𝙏𝘼𝙇 ⚡」](https://t.me/Brutal_RoBot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/TheAnonymous2005/FallenRobot/stargazers"><img src="https://img.shields.io/github/stars/TheAnonymous2005/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TheAnonymous2005/FallenRobot/network/members"> <img src="https://img.shields.io/github/forks/TheAnonymous2005/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/FallenRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/RACHIT-KUSHWAHA/BRUTAL/stargazers"><img src="https://img.shields.io/github/stars/RACHIT-KUSHWAHA/BRUTAL?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/RACHIT-KUSHWAHA/BRUTAL/network/members"> <img src="https://img.shields.io/github/forks/RACHIT-KUSHWAHA/BRUTAL?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/RACHIT-KUSHWAHA/BRUTAL/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/FallenRobot"> <img src="https://img.shields.io/github/repo-size/TheAnonymous2005/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/FallenRobot/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/TheAnonymous2005/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/RACHIT-KUSHWAHA/BRUTAL"> <img src="https://img.shields.io/github/repo-size/RACHIT-KUSHWAHA/BRUTAL?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/RACHIT-KUSHWAHA/BRUTAL/commits/RACHIT-KUSHWAHA"> <img src="https://img.shields.io/github/last-commit/RACHIT-KUSHWAHA/BRUTAL?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/7bd111132fce009e4605e.jpg">
+  <img src="https://te.legra.ph/file/2e7cb40bcde3a79c77172.jpg">
 </p>
 
 <p align="center">
