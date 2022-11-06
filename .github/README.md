@@ -57,8 +57,8 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [「 𝘽𝙍𝙐�
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/RACHIT-KUSHWAHA)  
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/Adityakjha1)  
+- <b>[𝙍𝘼𝘾𝙃𝙄𝙏](https://github.com/RACHIT-KUSHWAHA)  
+- <b>[𝘼𝘿𝙄𝙏𝙔𝘼𝙆𝙅𝙃𝘼1](https://github.com/Adityakjha1)  
 - <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/TheAnonymous2005/FallenRobot) </b>
 - <b>[ᴩᴀᴜʟ ʟᴀʀsᴇɴ](https://github.com/PaulSonOfLars)  ➻  [ᴛɢ ʙᴏᴛ](https://github.com/PaulSonOfLars/tgbot) </b>
 - <b>[ᴀɴɪᴍᴇ ᴋᴀɪᴢᴏᴋᴜ](https://github.com/AnimeKaizoku)  ➻  [sᴀɪᴛᴀᴍᴀ ʀᴏʙᴏᴛ](https://github.com/AnimeKaizoku/SaitamaRobot) </b>
